@@ -8,4 +8,6 @@ is an electroluminescent coating system which allows anything coated with it to 
 ### Ref
 - https://www.lumilor.com/
 - https://support.lumilor.com/en/article/lumilor-basics-and-faq
+- https://ellight.net/
+- https://www.instructables.com/How-to-make-Electroluminescent-EL-Paint/
 - 
